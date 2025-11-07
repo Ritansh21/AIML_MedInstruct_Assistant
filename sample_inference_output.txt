@@ -1,0 +1,9 @@
+User Input:
+Explain how to treat a mild fever at home safely.
+
+Model Output:
+You should rest, drink plenty of fluids, and monitor your temperature regularly. 
+If the fever lasts more than 2 days or goes above 102°F, consult a healthcare professional.
+
+---
+⚠️ This response is for educational purposes only and is NOT medical advice.
